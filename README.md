@@ -21,7 +21,7 @@ The Incident Detection Reports are aimed to showcase my learning experience in d
 - Linux and MySql to save, engage and protect data.
 
 ## Deliverables
-Incident reports, Risk registers, and Vulnerability assessment reports.Cybersecurity Audits & Reports Tasks Incident analysis, Documenting events, Network traffic assessment, OS vulnerability investigation, Risk management, and Vulnerability identification. Personnel Rodgers Munene Skills Analytics, Cybersecurity knowledge, Communication, and Tool proficiency. Deliverables Incident reports, Risk registers, and Vulnerability assessment reports.
+Incident reports, Risk registers, and Vulnerability assessment reports.Cybersecurity Audits & Reports Tasks Incident analysis, Documenting events, Network traffic assessment, OS vulnerability investigation, Risk management, and Vulnerability identification.
 
 ## Explanation
 
